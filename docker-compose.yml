@@ -19,8 +19,8 @@ services:
       - MOOBOT_VERSION=$MOOBOT_VERSION
       - BELACODER_PATH=$BELACODER_PATH
       - SRTLA_PATH=$SRTLA_PATH
-    ports:
-      - "5000:80"
+    #ports:
+    #  - "5000:80"
     volumes:
       - "./appsettings.json:/app/appsettings.$ENVIRONMENT.json"
       - "./data/BelaUI.json:/app/wwwroot/data/BelaUI.json"
