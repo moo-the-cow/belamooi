@@ -1,0 +1,1 @@
+﻿{"BitrateStart":1000,"BitrateEnd":8000,"Srtla":{"ReceiverAddresses":[{"Address":"10.0.1.10","Selected":true},{"Address":"10.0.1.223","Selected":false}],"ReceiverPort":5000,"ReceiverStreamId":"","LatencyMiliseconds":2000},"Encoder":{"PipelineFilename":"h265_rtmp_localhost_publish_live_30fps","AudioDelayMiliseconds":0}}
